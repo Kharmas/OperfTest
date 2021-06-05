@@ -1,1 +1,6 @@
-{}
+{
+  "baseUrl" : "http://test.operf.io",
+  "ignoreTestFiles": "**/examples/*",
+  "viewportWidth": 1920,
+  "viewportHeight": 1080
+}
